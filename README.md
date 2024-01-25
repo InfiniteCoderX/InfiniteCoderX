@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/giteshgayakwad" target="blank"><img src="https://img.shields.io/twitter/follow/giteshgayakwad?logo=twitter&style=for-the-badge" alt="giteshgayakwad" /></a> </p>
 
-- 🔭 I’m currently working on **ChatGPT Clone**
+- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **React Js**
 
